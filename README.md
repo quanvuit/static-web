@@ -7,8 +7,8 @@
 #### Nhóm: 11
 # Đây là trang chủ website 
 ## phần header khi kéo chuột vào "Đặt Bàn " sẽ có hiệu ứng
-## Khi click vào biểu tượng menu sẽ hiện ra các menu item như ở hình 3
 ![alt](img/1.PNG)
+## Khi click vào biểu tượng menu sẽ hiện ra các menu item như ở hình 3
 ![alt](img/2.PNG)
 ![alt](img/3.PNG)
 #  Phần content có 3 section
