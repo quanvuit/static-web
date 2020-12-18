@@ -14,7 +14,7 @@
 #  Phần content có 3 section
 ## Section đầu tiên là phần các món ăn nổi bật của nhà hàng
 ![alt](img/4.PNG)
-## Section 2 là phần liệt kê ra các món án của nhà hàng
+## Section 2 là phần liệt kê ra các món ăn của nhà hàng
 ![alt](img/5.PNG)
 ## Section 3 là giới thiệu tất cả các mục của nhà hàng và đường  link tới các mạng xã hội của nhà hàng
 ![alt](img/6.PNG)
